@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation_rental"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="maen.edu.rental_house.ui_Rental.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="maen.edu.rental_house.ui_Rental.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="maen.edu.rental_house.ui_Rental.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_Search"
+        android:name="maen.edu.rental_house.ui_Rental.Search.Fragment_Search"
+        android:label="Search"
+        tools:layout="@layout/search" />
+
+    <fragment
+        android:id="@+id/nav_getHouse"
+        android:name="maen.edu.rental_house.HouseDetailsFragment"
+        android:label="House Details"
+        tools:layout="@layout/fragment_house_details" />
+    <fragment
+        android:id="@+id/nav_getPostHouse"
+        android:name="maen.edu.rental_house.ui_Rental.History.PostInfoDetailsFragment"
+        android:label="House Details"
+        tools:layout="@layout/fragment_postinfo_details" />
+    <fragment
+        android:id="@+id/TenantProfile"
+        android:name="maen.edu.rental_house.ui_Rental.profile.TenantProfile"
+        android:label="Profile"
+        tools:layout="@layout/fragment_tenant_profile" />
+    <fragment
+        android:id="@id/Tenant_notification"
+        android:name="maen.edu.rental_house.ui_Rental.notification.TenantNotification"
+        android:label="Notification"
+        tools:layout="@layout/fragment_tenant_notification" />
+
+    <fragment
+        android:id="@+id/nav_history"
+        android:name="maen.edu.rental_house.History_Fragment"
+        android:label="History"
+        tools:layout="@layout/fragment_history__rental" />
+    <fragment
+        android:id="@+id/nav_View_Search"
+        android:name="maen.edu.rental_house.ui_Rental.Search.Show_Search"
+        android:label="Show Search"
+        tools:layout="@layout/fragment_view_home_search" />
+    <fragment
+        android:id="@+id/logout"
+        android:name="maen.edu.rental_house.LogOut"
+        android:label="fragment_logout"/>
+
+</navigation>

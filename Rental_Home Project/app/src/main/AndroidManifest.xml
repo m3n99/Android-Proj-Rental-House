@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="maen.edu.rental_house">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RentalHouse">
+        <activity
+            android:name=".ui_Agency.notification.notificationDetails"
+            android:exported="false" />
+        <activity android:name=".ui_Agency.edithouse.ViewEditHouse" />
+        <activity
+            android:name=".ui_Agency.notification.TenantInAgencyNotification"
+            android:exported="false" />
+        <activity
+            android:name=".Rental_navbar"
+            android:exported="false"
+            android:label="@string/title_activity_renatl_nav"
+            android:theme="@style/Theme.RentalHouse.NoActionBar" />
+        <activity android:name=".AfterConnection" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".SignIn" />
+        <activity android:name=".TenantSignup" />
+        <activity android:name=".AgencySignUP" />
+        <activity android:name=".Guest_Search" />
+        <activity android:name=".Show_GuestSearch" />
+        <activity
+            android:name=".Home_nav"
+            android:exported="false"
+            android:label="@string/title_activity_home_nav"
+            android:theme="@style/Theme.RentalHouse.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

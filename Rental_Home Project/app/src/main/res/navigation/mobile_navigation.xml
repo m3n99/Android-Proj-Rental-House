@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="maen.edu.rental_house.ui_Agency.home.HomeAgencyFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="maen.edu.rental_house.ui_Agency.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+    <fragment
+        android:id="@+id/edit"
+        android:name="maen.edu.rental_house.ui_Agency.edithouse.Edit"
+        android:label="Edit"
+        tools:layout="@layout/fragment_edit" />
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="maen.edu.rental_house.ui_Agency.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/notification"
+        android:name="maen.edu.rental_house.ui_Agency.notification.notificationAgency"
+        android:label="Notification"
+        tools:layout="@layout/fragment_notification_agency"/>
+
+    <fragment
+        android:id="@+id/nav_post"
+        android:name="maen.edu.rental_house.Fragment_Post"
+        android:label="Post"
+        tools:layout="@layout/post"/>
+    <fragment
+        android:id="@+id/nav_getPostHouse"
+        android:name="maen.edu.rental_house.ui_Agency.home.PostInfoDetailsFragment_Agency"
+        android:label="House Details"
+        tools:layout="@layout/fragment_postinfo_details_agency" />
+    <fragment
+        android:id="@+id/nav_getHouse"
+        android:name="maen.edu.rental_house.ui_Agency.home.HouseDetailsFragment_Agency"
+        android:label="House Details"
+        tools:layout="@layout/fragment_house_details" />
+
+    <fragment
+        android:id="@+id/nav_AgencyHistory"
+        android:name="maen.edu.rental_house.ui_Agency.History.HistoryAgency_Fragment"
+        android:label="History"
+        tools:layout="@layout/fragment_history__agency" />
+
+    <fragment
+        android:id="@+id/AgencyProfile"
+        android:name="maen.edu.rental_house.ui_Agency.profile.AgencyProfile"
+        android:label="Profile"
+        tools:layout="@layout/fragment_agency_profile" />
+    <fragment
+        android:id="@+id/logout"
+        android:name="maen.edu.rental_house.LogOut"
+        android:label="fragment_logout"/>
+
+</navigation>

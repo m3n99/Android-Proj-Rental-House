@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/drawable-v24/blink.xml" value="0.26615384615384613" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/drawable-v24/border_ui.xml" value="0.2546875" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/drawable-v24/ic_baseline_import_contacts_24.xml" value="0.26615384615384613" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/drawable-v24/ic_baseline_post_add_24.xml" value="0.26615384615384613" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/drawable-v24/ic_baseline_south_west_24.xml" value="0.26615384615384613" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.24375" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.2703125" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/drawable/ic_baseline_horizontal_rule_24.xml" value="0.24375" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/drawable/ic_menu_favorites.xml" value="0.2703125" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/font/aldrich.xml" value="0.134375" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/activity_edit_posted_properties.xml" value="0.22192028985507245" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/activity_home_nav.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/activity_main.xml" value="0.23324275362318841" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/activity_notification_details.xml" value="0.22192028985507245" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/activity_rental_nav.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/activity_tenant_in_agency_notification.xml" value="0.2513586956521739" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/activity_view_edit_house.xml" value="0.22192028985507245" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/afterconnection.xml" value="0.1" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/app_bar_home_nav.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/app_bar_rental_nav.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/content_home_nav.xml" value="0.21875" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/content_rental_nav.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment__post.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_agency_history_row.xml" value="0.23369565217391305" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_agency_profile.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_edit.xml" value="0.21822916666666667" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_gallery.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_history__agency.xml" value="0.23369565217391305" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_history__house.xml" value="0.24728260869565216" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_history__rental.xml" value="0.2513586956521739" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_home.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_home_post.xml" value="0.23731884057971014" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_home_rental.xml" value="0.19166666666666668" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_house_details.xml" value="0.23731884057971014" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_house_details_agency.xml" value="0.22192028985507245" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_house_details_agnecy.xml" value="0.22192028985507245" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_house_history_row.xml" value="0.24728260869565216" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_house_row.xml" value="0.264" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_notification_agency.xml" value="0.22192028985507245" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_postinfo_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_postinfo_details_agency.xml" value="0.22192028985507245" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_rental_history_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_slideshow.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_tenant_notification.xml" value="0.22192028985507245" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_tenant_profile.xml" value="0.22192028985507245" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/fragment_view_home_search.xml" value="0.23854166666666668" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/nav_header_home_nav.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/nav_header_rental_nav.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/post.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/renting_agency_singup.xml" value="0.23641304347826086" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/search.xml" value="0.19114583333333332" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/sign_in.xml" value="0.2477355072463768" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/sign_up.xml" value="0.23731884057971014" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/layout/tenant_signup.xml" value="0.2504528985507246" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/menu/activity_Rental_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/menu/activity_mainRental_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/menu/activity_rental_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/menu/home_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/menu/renatl_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/menu/rental_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/Lab Android/Rental_Home Project/app/src/main/res/menu/rental_navbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Downloads/Music/Rental_Home Project/app/src/main/res/layout/activity_home_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Downloads/Music/Rental_Home Project/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Downloads/Music/Rental_Home Project/app/src/main/res/layout/afterconnection.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Downloads/Music/Rental_Home Project/app/src/main/res/layout/app_bar_home_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Downloads/Music/Rental_Home Project/app/src/main/res/layout/content_home_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Downloads/Music/Rental_Home Project/app/src/main/res/layout/fragment_agency_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Downloads/Music/Rental_Home Project/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Downloads/Music/Rental_Home Project/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Downloads/Music/Rental_Home Project/app/src/main/res/layout/post.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Downloads/Music/Rental_Home Project/app/src/main/res/layout/renting_agency_singup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Downloads/Music/Rental_Home Project/app/src/main/res/menu/home_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/drawable-v24/ic_baseline_edit_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/drawable-v24/ic_baseline_history_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/drawable-v24/ic_baseline_import_contacts_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/drawable-v24/ic_baseline_notifications_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/drawable-v24/ic_baseline_post_add_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/drawable-v24/ic_baseline_south_west_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/activity_home_nav.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/afterconnection.xml" value="0.264" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/app_bar_home_nav.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/content_home_nav.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/fragment_agency_profile.xml" value="0.264" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/fragment_gallery.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/fragment_home.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/fragment_post_house.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/fragment_search_house.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/fragment_slideshow.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/post.xml" value="0.264" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/renting_agency_singup.xml" value="0.16" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/search.xml" value="0.152" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/sign_in.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/sign_up.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/layout/tenant_signup.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
+        <entry key="..\:/Users/palbr/Desktop/Android/Rental_Home Project/app/src/main/res/menu/home_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah2/Rental_Home Project/app/src/main/res/layout/activity_notification_details.xml" value="0.125" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah2/Rental_Home Project/app/src/main/res/layout/fragment_history__rental.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah2/Rental_Home Project/app/src/main/res/layout/fragment_notification_agency.xml" value="0.1640625" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah2/Rental_Home Project/app/src/main/res/menu/activity_main_drawer.xml" value="0.1640625" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah2/Rental_Home Project/app/src/main/res/menu/activity_rental_drawer.xml" value="0.1625" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah3/Rental_Home Project/app/src/main/res/layout/activity_view_edit_house.xml" value="0.13858695652173914" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah3/Rental_Home Project/app/src/main/res/layout/fragment_edit.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah3/Rental_Home Project/app/src/main/res/layout/fragment_postinfo_details.xml" value="0.1890625" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah3/Rental_Home Project/app/src/main/res/layout/fragment_tenant_notification.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah3/Rental_Home Project/app/src/main/res/layout/post.xml" value="0.1890625" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah3/Rental_Home Project/app/src/main/res/menu/activity_main_drawer.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/palbr/Desktop/Android/aminah3/Rental_Home Project/app/src/main/res/menu/activity_rental_drawer.xml" value="0.20833333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <EditText
+                android:id="@+id/Search_city"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:ems="10"
+                android:hint="City"
+                android:inputType="textPersonName" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <EditText
+                android:id="@+id/Search_minimumSurfaceArea"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:ems="10"
+                android:hint="minimum surface area"
+                android:inputType="textPersonName" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <EditText
+                android:id="@+id/Search_maximumSurfaceArea"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:ems="10"
+                android:hint="maximum surface area"
+                android:inputType="textPersonName" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <EditText
+                android:id="@+id/Search_minBedRoom"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:ems="10"
+                android:hint="minimum number of bedrooms"
+                android:inputType="textPersonName" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <EditText
+                android:id="@+id/Search_maxBedRoom"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:ems="10"
+                android:hint="maximum number of bedrooms"
+                android:inputType="textPersonName" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <EditText
+                android:id="@+id/Search_minPrice"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:ems="10"
+                android:hint="minimum number of rental price"
+                android:inputType="textPersonName" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+            <EditText
+                android:id="@+id/Search_maxPrice"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:ems="10"
+                android:hint="maximum number of rental price"
+                android:inputType="textPersonName" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:id="@+id/furnished"
+                    android:layout_width="193dp"
+                    android:layout_height="wrap_content"
+                    android:text="Furnished" />
+
+                <CheckBox
+                    android:id="@+id/Unfurnished"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Unfurnished" />
+            </LinearLayout>
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:id="@+id/balcony"
+                    android:layout_width="193dp"
+                    android:layout_height="wrap_content"
+                    android:text="Balcony" />
+
+                <CheckBox
+                    android:id="@+id/garden"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Garden" />
+            </LinearLayout>
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <Button
+                android:id="@+id/Search"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:backgroundTint="#CC8D30"
+                android:text="Search" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <Button
+                android:id="@+id/BackS"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:backgroundTint="#000000"
+                android:text="Back" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
+
+
